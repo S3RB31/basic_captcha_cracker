@@ -2,7 +2,6 @@
 # written by s3rb31@mail.ru
 
 import sys
-import tesseract
 from PIL import Image
 from PIL import ImageEnhance
 
